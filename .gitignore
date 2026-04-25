@@ -1,0 +1,23 @@
+# Environments & Python
+venv/
+env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Node & Frontend
+node_modules/
+dist/
+build/
+.npm/
+
+# Data, Logs & Infra
+*.log
+data/
+infrastructure/postgres/data/
+*.rdb
+
+# OS & Editor
+.DS_Store
+.vscode/
+.env
