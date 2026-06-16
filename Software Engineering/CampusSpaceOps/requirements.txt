@@ -1,0 +1,19 @@
+# CampusSpaceOps — Python dependencies
+# All core dependencies are from the standard library (sqlite3, tkinter, hashlib, csv, unittest).
+# Optional analytics/optimization extensions:
+
+# Uncomment to enable Jupyter notebook analytics:
+# jupyter>=1.0.0
+# pandas>=2.0.0
+# matplotlib>=3.7.0
+# seaborn>=0.12.0
+# numpy>=1.24.0
+# scipy>=1.11.0
+
+# Uncomment to enable LP-based BIP solver (replaces greedy):
+# pulp>=2.7.0
+
+# Uncomment for web deployment:
+# streamlit>=1.28.0
+# fastapi>=0.104.0
+# uvicorn>=0.24.0
