@@ -1,0 +1,16 @@
+2024-12-27 14:18:43,186 - INFO - Database dan tabel berhasil diinisialisasi.
+2024-12-27 14:18:43,396 - INFO - User O001 berhasil ditambahkan.
+2024-12-27 14:18:43,606 - INFO - User M001 berhasil ditambahkan.
+2024-12-27 14:18:43,820 - INFO - User D001 berhasil ditambahkan.
+2024-12-27 14:18:52,401 - INFO - User O001 berhasil login sebagai Operator.
+2024-12-27 14:19:33,186 - INFO - Ruangan R031 berhasil ditambahkan.
+2024-12-27 14:20:19,368 - INFO - User M001 berhasil login sebagai Mahasiswa.
+2024-12-27 14:20:54,449 - INFO - Database dan tabel berhasil diinisialisasi.
+2024-12-27 14:20:54,666 - WARNING - User dengan ID O001 sudah ada.
+2024-12-27 14:20:56,593 - WARNING - User dengan ID M001 sudah ada.
+2024-12-27 14:20:58,472 - WARNING - User dengan ID D001 sudah ada.
+2024-12-27 14:21:09,416 - INFO - User M001 berhasil login sebagai Mahasiswa.
+2024-12-27 14:21:23,029 - INFO - Peminjaman P9NVW6QP5 diajukan oleh Ica.
+2024-12-27 14:21:31,302 - INFO - User O001 berhasil login sebagai Operator.
+2024-12-27 14:21:49,634 - INFO - User D001 berhasil login sebagai Dosen.
+2024-12-27 14:32:08,854 - INFO - User O001 berhasil login sebagai Operator.
